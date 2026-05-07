@@ -1,302 +1,208 @@
-You are an expert senior frontend developer and UI/UX designer.
+You are an elite UI/UX designer and senior frontend developer.
 
-I already have a dark modern agency website template running locally.  
-Current company name is “Axiom”.  
-I want you to modify and upgrade the website professionally.
+The current website design for “Growvya” is too dark and visually heavy.  
+I want you to redesign the color system while keeping the same premium modern AI-agency aesthetic.
+
+GOAL:
+Make the website feel:
+- more premium
+- more trustworthy
+- more conversion-focused
+- more modern SaaS startup style
+- visually brighter and more attractive to customers
+- luxurious but not overly dark
 
 IMPORTANT:
-- Keep the same premium dark luxury aesthetic
-- Keep animations smooth and modern
-- Keep the current navbar and hero section style
-- Maintain responsive design for mobile, tablet, and desktop
-- Use clean semantic HTML, modern CSS, and modular JavaScript
-- Do NOT break existing layout or responsiveness
-- Make everything look premium like a high-end AI marketing agency
+Do NOT make it colorful like a cheap template.
+Keep it elegant, clean, futuristic, and high-converting.
 
 ====================================================
-BRAND CHANGES
+NEW COLOR DIRECTION
 ====================================================
 
-Replace all occurrences of:
-“Axiom”
+Replace the current pure black heavy theme with:
 
-WITH:
-“Growvya”
+PRIMARY BACKGROUND:
+- Deep navy gradient
+- charcoal blue
+- soft dark slate
+- subtle midnight tones
 
-Update:
-- logo text
-- page title
-- meta title
-- hero branding
-- footer branding
-- any placeholder branding text
+Use gradients like:
+- #0B1020
+- #111827
+- #172033
+- #1E293B
 
-Brand personality:
-- futuristic
-- AI-powered
-- premium
-- conversion-focused
-- modern digital growth agency
+SECONDARY ACCENTS:
+Use glowing premium accent colors strategically:
+- Electric blue
+- Violet purple
+- Cyan
+- Soft neon teal
 
-====================================================
-SERVICES SECTION CHANGES
-====================================================
+Accent examples:
+- #5B8CFF
+- #7C4DFF
+- #00D4FF
+- #00FFC6
 
-Currently the Services section contains text-based services like:
-- AI Campaign Intelligence
-- UGC Video Production
-etc.
+TEXT COLORS:
+Primary text:
+- soft white (#F8FAFC)
 
-I want to COMPLETELY REPLACE the current services section with visually rich service cards inspired by the reference image.
+Secondary text:
+- muted gray-blue (#CBD5E1)
 
-Create 8 premium service cards in a responsive grid layout.
-
-SERVICES TO INCLUDE:
-1. Meta Ads
-2. AI Video Creation
-3. Graphic Design
-4. Video Editing
-5. Google Ads
-6. E-Commerce Website Development
-7. E-Commerce Management
-8. Social Media Management
+Avoid:
+- harsh white on black
+- flat black backgrounds
+- overly saturated colors
 
 ====================================================
-DESIGN REQUIREMENTS FOR SERVICES SECTION
+VISUAL STYLE
 ====================================================
 
-STYLE:
-- Dark modern glassmorphism aesthetic
-- Premium neon glow accents
-- Each card should have unique gradient highlights
-- Hover animations
-- Smooth transitions
-- Slight 3D depth feeling
-- Rounded corners
-- Soft shadows
-- High-end SaaS / AI startup look
+I want the site to look inspired by:
+- Stripe
+- Linear
+- Framer
+- Vercel
+- modern AI SaaS startups
 
-LAYOUT:
-- Desktop: 4 columns x 2 rows
-- Tablet: 2 columns
-- Mobile: 1 column
-
-CARD CONTENT:
-Each service card should contain:
-- service title
-- short professional description
-- 4–5 bullet features
-- related modern icon/logo
-- subtle animated background glow
-- CTA button like “Learn More”
+STYLE REQUIREMENTS:
+- smooth gradients
+- soft ambient glows
+- blurred colorful lighting
+- glassmorphism cards
+- premium hover effects
+- subtle depth
+- clean spacing
+- elegant contrast
 
 ====================================================
-CARD DETAILS
+BACKGROUND IMPROVEMENTS
 ====================================================
 
-1. META ADS
-Description:
-High-converting Meta advertising campaigns designed for aggressive growth.
-
-Features:
-- Audience Targeting
-- Pixel Setup
-- Retargeting
-- Creative Testing
-- ROI Optimization
-
-Visual:
-Use blue neon glow with Meta-style branding aesthetic.
-
-----------------------------------------------------
-
-2. AI VIDEO CREATION
-Description:
-AI-generated videos built for engagement, speed, and scalability.
-
-Features:
-- Text to Video
-- AI Avatars
-- Voice Generation
-- Product Videos
-- Reels & Shorts
-
-Visual:
-Purple futuristic AI theme.
-
-----------------------------------------------------
-
-3. GRAPHIC DESIGN
-Description:
-Premium visuals that elevate your brand identity and conversion rate.
-
-Features:
-- Social Media Creatives
-- Brand Identity
-- Ad Creatives
-- Packaging Design
-- Marketing Materials
-
-Visual:
-Orange-yellow creative glow.
-
-----------------------------------------------------
-
-4. VIDEO EDITING
-Description:
-Professional cinematic editing optimized for social media performance.
-
-Features:
-- Reels Editing
-- Motion Graphics
-- Color Grading
-- Sound Design
-- Shorts Optimization
-
-Visual:
-Orange-red editing studio aesthetic.
-
-----------------------------------------------------
-
-5. GOOGLE ADS
-Description:
-Performance-driven Google Ads campaigns focused on scaling revenue.
-
-Features:
-- Search Ads
-- Display Ads
-- Keyword Strategy
-- Conversion Tracking
-- Analytics Optimization
-
-Visual:
-Green Google-style neon gradient.
-
-----------------------------------------------------
-
-6. E-COMMERCE WEBSITE DEVELOPMENT
-Description:
-High-converting online stores designed for modern brands.
-
-Features:
-- Shopify Development
-- WordPress/WooCommerce
-- Responsive Design
-- Fast Loading
-- SEO Optimization
-
-Visual:
-Cyan-blue premium ecommerce look.
-
-----------------------------------------------------
-
-7. E-COMMERCE MANAGEMENT
-Description:
-Complete ecommerce growth management for scaling online brands.
-
-Features:
-- Product Listings
-- PPC Campaigns
-- Inventory Management
-- Marketplace Optimization
-- Sales Scaling
-
-Visual:
-Gold-orange business growth theme.
-
-----------------------------------------------------
-
-8. SOCIAL MEDIA MANAGEMENT
-Description:
-Build authority, engagement, and consistent audience growth.
-
-Features:
-- Content Strategy
-- Daily Posting
-- Community Management
-- Analytics Reports
-- Influencer Outreach
-
-Visual:
-Instagram-inspired neon gradient with floating social icons.
-
-====================================================
-ANIMATIONS
-====================================================
+Instead of flat black:
+- create layered gradient backgrounds
+- add blurred glow orbs
+- subtle animated mesh gradients
+- use soft lighting effects behind hero text
 
 Add:
-- fade-up scroll reveal animations
-- hover lift effects
-- glowing borders on hover
-- subtle floating animation
-- animated gradient backgrounds
-- smooth button interactions
+- floating gradient blobs
+- radial gradient overlays
+- subtle noise texture
+- premium cinematic atmosphere
 
-Use modern animations similar to:
-- Framer-inspired motion
-- premium startup landing pages
-- Apple + AI SaaS aesthetics
-
-====================================================
-TYPOGRAPHY
-====================================================
-
-Use:
-- bold modern sans-serif typography
-- large premium headings
-- clean spacing
-- improved readability
-
-Hero headline should remain powerful and minimal.
+The background should feel:
+- alive
+- expensive
+- futuristic
+- immersive
 
 ====================================================
-EXTRA IMPROVEMENTS
+HERO SECTION IMPROVEMENTS
 ====================================================
 
-Also improve:
-- section spacing
-- alignment
-- responsiveness
-- card consistency
-- navbar polish
-- button aesthetics
-- overall visual hierarchy
+Current hero is too plain.
 
-Add subtle:
-- noise texture
-- blurred glow effects
-- animated gradient blobs in background
+Improve it by adding:
+- glowing gradient behind heading
+- animated blurred lights
+- subtle floating particles
+- better button glow
+- improved spacing
+- premium typography balance
+
+Keep the same headline:
+“Your brand, amplified.”
+
+But make it visually more luxurious and modern.
+
+====================================================
+BUTTON REDESIGN
+====================================================
+
+Current button is too plain.
+
+Make CTA buttons:
+- gradient filled
+- soft glow
+- hover lift animation
+- glass border effect
+- premium micro-interactions
+
+Preferred button gradient:
+- blue → violet
+OR
+- cyan → purple
+
+====================================================
+SERVICES SECTION
+====================================================
+
+Keep the services cards but improve them visually:
+- lighter glassmorphism
+- better gradients
+- more contrast
+- premium hover glow
+- smoother shadows
+- cleaner typography hierarchy
+
+Each card should have:
+- unique accent glow
+- animated hover border
+- slight scale animation
+- soft background blur
+
+====================================================
+OVERALL FEEL
+====================================================
+
+The website should feel like:
+- a ₹10 lakh premium agency website
+- modern AI growth company
+- high-ticket digital brand
+- sleek and trustworthy
+
+NOT:
+- hacker style
+- gaming UI
+- overly black cyberpunk
+- cheap neon template
 
 ====================================================
 TECH REQUIREMENTS
 ====================================================
 
-Tech stack currently:
+Keep:
 - HTML
 - CSS
 - JavaScript
 
 Do NOT convert to React.
 
-Keep code:
-- clean
-- modular
-- production quality
-- optimized
-- responsive
-
-If needed:
-- reorganize CSS
-- create reusable card classes
-- improve semantic structure
+Improve:
+- CSS variables
+- gradient system
+- reusable utility classes
+- animations
+- responsiveness
 
 ====================================================
 DELIVERABLE
 ====================================================
 
-Provide complete updated code for:
-- index.html
-- styles.css
-- main.js
+Provide:
+1. Updated color palette
+2. Updated CSS variables
+3. Improved background styles
+4. Better hero section styling
+5. Redesigned buttons
+6. Refined services card design
+7. Smooth premium animations
+8. Full updated styles.css changes
 
-Ensure the website looks like a premium AI growth agency called “Growvya”.
+Make the final design feel bright-premium instead of dark-heavy.
