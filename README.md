@@ -1,289 +1,340 @@
 You are an expert UI/UX designer and senior frontend developer.
 
-I want you to MODIFY my EXISTING Growvya homepage directly.
+I want you to MODIFY my EXISTING Growvya website directly.
 
-Current issue:
-The website still feels TOO DARK and visually heavy.
+Currently, when users click the “Work” navigation link, the page scrolls to a stats/results section showing:
+- 340%
+- 180+
+- 2.4B
+- 98%
 
-I want the homepage to feel:
-- brighter
-- more premium
-- more modern
-- cleaner
-- luxurious
-- startup/SaaS style
-- high-converting
+I DO NOT want this section anymore.
+
+Instead, I want to COMPLETELY REPLACE the current “Work” section with a PREMIUM “About Us” section.
 
 IMPORTANT:
-Do NOT redesign from scratch.
-Do NOT break current layout.
-Only improve the existing design system and visuals.
+- Do NOT redesign the entire website
+- Do NOT break current navigation or scrolling behavior
+- Keep the same dark-premium SaaS aesthetic
+- Maintain responsiveness
+- Integrate smoothly with current homepage design
+- Keep animations elegant and lightweight
 
 ====================================================
-MAIN CHANGES REQUIRED
+MAIN CHANGE
 ====================================================
 
-1. Make overall background BRIGHTER
-2. Increase Growvya logo size slightly
-3. Replace text:
-“AI-powered campaigns that convert.”
+Replace the current “Results / Stats” section with:
 
-WITH:
-“Powered campaigns that convert.”
+A modern premium “About Us” section.
 
-4. Improve readability and premium feel
-5. Keep same dark-luxury style but with brighter tones
+When user clicks:
+“Work”
+
+It should smoothly scroll to:
+“About Us”
 
 ====================================================
-BACKGROUND IMPROVEMENTS
+ABOUT US SECTION GOAL
 ====================================================
 
-Current background is:
-- too black
-- too flat
-- visually dull
+The About Us section should make Growvya feel:
+- premium
+- trustworthy
+- modern
+- intelligent
+- growth-focused
+- high-end agency
+- startup/SaaS level quality
 
-Change it into a brighter premium gradient atmosphere.
+The section should answer:
+- who we are
+- what we do
+- why clients trust us
+- how we help businesses grow
+- what makes us different
 
-Use layered gradients like:
+====================================================
+SECTION STRUCTURE
+====================================================
 
-background:
+Create the About Us section with:
+
+1. Small label/tag
+2. Large heading
+3. Premium description
+4. Feature cards
+5. Small stats row
+6. Optional image/visual area
+7. Subtle background effects
+
+====================================================
+1. SECTION LABEL
+====================================================
+
+Small top label:
+
+“ABOUT GROWVYA”
+
+Style:
+- uppercase
+- letter spacing
+- glass pill badge
+- subtle glow border
+
+====================================================
+2. MAIN HEADING
+====================================================
+
+Large premium heading:
+
+“We build modern digital growth systems for ambitious brands.”
+
+Alternative heading options:
+- “Growth engineered for modern brands.”
+- “Where creativity meets scalable performance.”
+- “We help brands grow smarter, faster, and stronger.”
+
+Typography:
+- bold
+- modern
+- clean spacing
+- premium SaaS look
+
+====================================================
+3. DESCRIPTION TEXT
+====================================================
+
+Add premium paragraph text like:
+
+“Growvya is a performance-focused digital growth agency helping brands scale through strategy, creative execution, paid advertising, and modern digital experiences.
+
+From Meta Ads and AI-driven content creation to website development and social media growth, we create systems designed for long-term business impact.”
+
+Make text:
+- clean
+- readable
+- slightly brighter
+- professional
+- trustworthy
+
+====================================================
+4. FEATURE / VALUE CARDS
+====================================================
+
+Create 4 premium glassmorphism cards.
+
+Cards should have:
+- icon
+- heading
+- short description
+- hover glow
+- lift animation
+- subtle gradient borders
+
+====================================================
+CARD 1
+====================================================
+
+Title:
+Performance Marketing
+
+Description:
+“Conversion-focused campaigns built for measurable business growth.”
+
+Icon:
+Trending chart / growth icon
+
+Accent:
+Blue glow
+
+====================================================
+CARD 2
+====================================================
+
+Title:
+Creative Strategy
+
+Description:
+“Modern creatives and storytelling designed to capture attention.”
+
+Icon:
+Spark / design icon
+
+Accent:
+Purple glow
+
+====================================================
+CARD 3
+====================================================
+
+Title:
+Website Experiences
+
+Description:
+“High-converting digital experiences optimized for modern users.”
+
+Icon:
+Monitor / layout icon
+
+Accent:
+Cyan glow
+
+====================================================
+CARD 4
+====================================================
+
+Title:
+Scalable Systems
+
+Description:
+“Growth systems designed to evolve with your business.”
+
+Icon:
+Layers / automation icon
+
+Accent:
+Teal glow
+
+====================================================
+5. SMALL STATS ROW
+====================================================
+
+Instead of huge ugly stats section, create elegant compact stats.
+
+Example:
+
+- 120+ Brands Worked With
+- ₹5Cr+ Ad Spend Managed
+- 95% Client Retention
+- Multi-Industry Experience
+
+Style:
+- smaller elegant numbers
+- premium typography
+- clean layout
+- subtle divider lines
+
+====================================================
+6. OPTIONAL VISUAL AREA
+====================================================
+
+Add optional right-side visual area:
+
+Could include:
+- glowing gradient orb
+- abstract 3D style card
+- floating UI mockup
+- dashboard preview
+- animated grid
+- modern geometric shapes
+
+DO NOT use cheesy stock photos.
+
+====================================================
+BACKGROUND DESIGN
+====================================================
+
+Current section is too plain.
+
+Improve with:
+- layered gradients
+- navy-blue atmosphere
+- blurred glow effects
+- subtle mesh gradients
+- ambient lighting
+- premium cinematic look
+
+Use colors:
 - #111827
 - #172554
 - #1E293B
 - #233876
-- #2B3F7A
 
-Add:
-- soft blue ambient lighting
-- blurred cyan glow
-- subtle purple gradient orbs
-- radial gradients behind hero text
-- soft vignette effect
-- cinematic lighting
-
-DO NOT use:
-- pure black
-- hacker style dark theme
-- overly neon cyberpunk colors
-
-The final background should feel:
-- brighter
-- richer
-- expensive
-- modern SaaS quality
-
-====================================================
-HERO SECTION IMPROVEMENTS
-====================================================
-
-Keep current hero layout.
-
-Improve:
-- spacing
-- brightness
-- glow balance
-- readability
-- contrast
-
-Hero heading:
-“Your brand, amplified.”
-
-Make:
-- text slightly warmer white
-- softer glow
-- cleaner typography
-- more premium spacing
-
-Add subtle:
-- blue-white text glow
-- soft background light burst
-- ambient blur behind heading
-
-====================================================
-SUBHEADING CHANGE
-====================================================
-
-Replace:
-“AI-powered campaigns that convert. Stories that last.”
-
-WITH:
-“Powered campaigns that convert. Stories that last.”
-
-Style improvements:
-- slightly brighter text
-- better letter spacing
-- improved font weight
-- softer opacity balance
-
-====================================================
-GROWVYA LOGO CHANGES
-====================================================
-
-Make “Growvya” logo:
-- slightly larger
-- more visible
-- more premium
-
-Increase:
-- font-size
-- font-weight
-- glow subtlely
-
-Suggested style:
-- blue-white gradient text
-- soft glow effect
-- cleaner spacing
-
-DO NOT overdo the glow.
-
-====================================================
-BUTTON IMPROVEMENTS
-====================================================
-
-Current button still feels dim.
-
-Improve CTA button:
-- brighter gradient
-- stronger contrast
-- better hover effect
-- more premium glow
-
-Use gradient:
-- cyan → violet
-OR
-- electric blue → soft purple
-
-Add:
-- hover lift
-- animated glow pulse
-- subtle shine effect
-
-Button should stand out clearly.
-
-====================================================
-NAVBAR IMPROVEMENTS
-====================================================
-
-Navbar currently blends too much into background.
-
-Improve:
-- visibility
-- spacing
-- contrast
-- glass effect
-
-Add:
-- semi-transparent glass navbar
-- blur backdrop
-- subtle border
-- slightly brighter text
-
-====================================================
-PARTICLE / STAR EFFECTS
-====================================================
-
-Current particles feel random and weak.
-
-Improve:
-- make particles softer
-- reduce clutter
-- use elegant floating dots
-- subtle animation only
-
-Particles should feel:
-- cinematic
-- luxurious
-- atmospheric
-
-NOT:
-- gaming stars
-- hacker matrix effect
-
-====================================================
-COLOR SYSTEM
-====================================================
-
-Use these colors:
-
-Background tones:
-- #111827
-- #172554
-- #1E293B
-- #233876
-
-Accent colors:
+Accent glows:
 - #60A5FA
 - #7C3AED
 - #38BDF8
-- #A78BFA
-
-Text:
-- #F8FAFC
-- #E2E8F0
 
 ====================================================
-ANIMATION IMPROVEMENTS
+ANIMATIONS
 ====================================================
 
-Keep animations smooth and premium.
+Add:
+- fade-up reveal
+- hover lift
+- soft glow pulse
+- floating background movement
+- smooth scrolling
+- staggered card animations
 
-Use:
-- soft floating motion
-- glow pulse
-- fade-up reveals
-- smooth transitions
-- ambient movement
-
-Avoid:
-- aggressive animations
-- flashy effects
-- laggy blur effects
-
-====================================================
-PERFORMANCE
-====================================================
-
-Do NOT add heavy animations that reduce performance.
-
-Optimize:
-- shadows
-- glow effects
-- blur usage
-- animation timing
-
-Website should remain:
+Animations should feel:
+- premium
 - smooth
-- responsive
-- lightweight
+- subtle
+- high-end
+
+NOT:
+- flashy
+- gaming style
+- over-animated
 
 ====================================================
-CODE INSTRUCTIONS
+RESPONSIVENESS
 ====================================================
 
-Provide changes in this format:
+Desktop:
+- 2-column layout
 
-1. Exact HTML text replacements
-2. Exact CSS modifications
-3. Exact JS improvements
-4. Mention where to paste each code block
+Tablet:
+- balanced stacked layout
+
+Mobile:
+- clean single-column layout
+- spacious padding
+- readable typography
+- touch-friendly cards
+
+====================================================
+IMPORTANT IMPLEMENTATION INSTRUCTIONS
+====================================================
+
+Do NOT create an entirely new page.
+
+Directly MODIFY the EXISTING “Work” section.
+
+Keep:
+- existing navigation link
+- current scroll behavior
+- section ID if already connected
+- current page structure
+
+Only replace the CONTENT and DESIGN of that section.
+
+====================================================
+CODE REQUIREMENTS
+====================================================
+
+Provide:
+1. Exact HTML section replacement
+2. Exact CSS additions/modifications
+3. Exact JS animation additions
+4. Mention where each code block should be pasted
 
 Example:
-- Replace current hero subtitle with this
-- Add this CSS below hero styles
-- Replace navbar CSS with this
-- Add this JS inside existing particle animation section
+- Replace current results section HTML with this
+- Add this CSS below existing work section styles
+- Add this JS inside existing scroll animation code
 
 ====================================================
-FINAL GOAL
+FINAL RESULT
 ====================================================
 
-The homepage should feel:
+The new About Us section should feel:
+- premium
+- trustworthy
 - brighter
-- more premium
-- cleaner
-- visually richer
-- more trustworthy
-- more modern SaaS startup style
-
-WITHOUT changing the current overall structure.
+- visually rich
+- modern SaaS quality
+- conversion-focused
+- seamlessly integrated with Growvya homepage
