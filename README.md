@@ -1,208 +1,179 @@
-You are an elite UI/UX designer and senior frontend developer.
+IMPORTANT IMPLEMENTATION INSTRUCTIONS:
 
-The current website design for “Growvya” is too dark and visually heavy.  
-I want you to redesign the color system while keeping the same premium modern AI-agency aesthetic.
+Do NOT create a completely separate contact page from scratch.
 
-GOAL:
-Make the website feel:
-- more premium
-- more trustworthy
-- more conversion-focused
-- more modern SaaS startup style
-- visually brighter and more attractive to customers
-- luxurious but not overly dark
-
-IMPORTANT:
-Do NOT make it colorful like a cheap template.
-Keep it elegant, clean, futuristic, and high-converting.
+Instead:
+- MODIFY and UPGRADE the EXISTING contact page structure and existing codebase directly.
+- Preserve current routing, file structure, navbar, footer logic, and existing animations.
+- Keep all existing functionality working smoothly.
+- Ensure all new sections integrate seamlessly with the current Growvya website.
 
 ====================================================
-NEW COLOR DIRECTION
+INTEGRATION REQUIREMENTS
 ====================================================
 
-Replace the current pure black heavy theme with:
+You must:
+- analyze the current HTML structure
+- reuse existing classes where possible
+- extend existing CSS instead of rewriting everything unnecessarily
+- keep current responsive behavior intact
+- maintain performance optimization
+- avoid duplicate CSS and JavaScript
+- ensure design consistency with homepage
 
-PRIMARY BACKGROUND:
-- Deep navy gradient
-- charcoal blue
-- soft dark slate
-- subtle midnight tones
-
-Use gradients like:
-- #0B1020
-- #111827
-- #172033
-- #1E293B
-
-SECONDARY ACCENTS:
-Use glowing premium accent colors strategically:
-- Electric blue
-- Violet purple
-- Cyan
-- Soft neon teal
-
-Accent examples:
-- #5B8CFF
-- #7C4DFF
-- #00D4FF
-- #00FFC6
-
-TEXT COLORS:
-Primary text:
-- soft white (#F8FAFC)
-
-Secondary text:
-- muted gray-blue (#CBD5E1)
-
-Avoid:
-- harsh white on black
-- flat black backgrounds
-- overly saturated colors
+Do NOT:
+- break current navigation
+- remove existing smooth scrolling
+- break mobile responsiveness
+- create conflicting CSS
+- create disconnected sections
 
 ====================================================
-VISUAL STYLE
+UPDATE EXISTING CONTACT PAGE
 ====================================================
 
-I want the site to look inspired by:
-- Stripe
-- Linear
-- Framer
-- Vercel
-- modern AI SaaS startups
+Directly transform the current sections into premium versions.
 
-STYLE REQUIREMENTS:
-- smooth gradients
-- soft ambient glows
-- blurred colorful lighting
-- glassmorphism cards
-- premium hover effects
-- subtle depth
-- clean spacing
-- elegant contrast
+CURRENT PAGE HAS:
+- hero section
+- contact info
+- form
+- map
+- footer
+
+UPGRADE THESE EXISTING SECTIONS instead of replacing entire architecture.
 
 ====================================================
-BACKGROUND IMPROVEMENTS
+HERO SECTION CHANGES
 ====================================================
 
-Instead of flat black:
-- create layered gradient backgrounds
-- add blurred glow orbs
-- subtle animated mesh gradients
-- use soft lighting effects behind hero text
+Keep existing hero structure but improve:
+- background gradients
+- typography
+- spacing
+- glow effects
+- CTA button styling
+- animations
 
 Add:
-- floating gradient blobs
-- radial gradient overlays
-- subtle noise texture
-- premium cinematic atmosphere
-
-The background should feel:
-- alive
-- expensive
-- futuristic
-- immersive
+- animated mesh gradient background
+- blurred glow orbs
+- soft blue/purple lighting
+- premium text glow
 
 ====================================================
-HERO SECTION IMPROVEMENTS
+CONTACT INFO SECTION
 ====================================================
 
-Current hero is too plain.
+Convert existing plain info blocks into:
+- glassmorphism cards
+- hover animated cards
+- responsive grid
 
-Improve it by adding:
-- glowing gradient behind heading
-- animated blurred lights
-- subtle floating particles
-- better button glow
-- improved spacing
-- premium typography balance
+Keep same information:
+- address
+- phone
+- email
+- social links
 
-Keep the same headline:
-“Your brand, amplified.”
-
-But make it visually more luxurious and modern.
+But redesign visually.
 
 ====================================================
-BUTTON REDESIGN
+FORM SECTION
 ====================================================
 
-Current button is too plain.
+Upgrade current form styling only.
 
-Make CTA buttons:
-- gradient filled
-- soft glow
-- hover lift animation
-- glass border effect
-- premium micro-interactions
-
-Preferred button gradient:
-- blue → violet
-OR
-- cyan → purple
-
-====================================================
-SERVICES SECTION
-====================================================
-
-Keep the services cards but improve them visually:
-- lighter glassmorphism
-- better gradients
-- more contrast
-- premium hover glow
-- smoother shadows
-- cleaner typography hierarchy
-
-Each card should have:
-- unique accent glow
-- animated hover border
-- slight scale animation
-- soft background blur
-
-====================================================
-OVERALL FEEL
-====================================================
-
-The website should feel like:
-- a ₹10 lakh premium agency website
-- modern AI growth company
-- high-ticket digital brand
-- sleek and trustworthy
-
-NOT:
-- hacker style
-- gaming UI
-- overly black cyberpunk
-- cheap neon template
-
-====================================================
-TECH REQUIREMENTS
-====================================================
+Do NOT remove form functionality.
 
 Keep:
-- HTML
-- CSS
-- JavaScript
-
-Do NOT convert to React.
+- current form structure
+- validation
+- backend compatibility
 
 Improve:
-- CSS variables
-- gradient system
-- reusable utility classes
-- animations
+- inputs
+- labels
+- spacing
+- dropdown styling
+- textarea
+- button design
+- focus states
+- responsiveness
+
+Ensure:
+- all form fields still submit correctly
+- existing IDs and names remain intact if backend depends on them
+
+====================================================
+MAP SECTION
+====================================================
+
+Keep existing embedded map functionality.
+
+Only improve:
+- layout
+- container styling
+- border radius
+- shadows
+- glow effects
+- responsive spacing
+
+====================================================
+FOOTER
+====================================================
+
+Upgrade current footer visually while keeping:
+- existing links
+- structure
+- navigation
 - responsiveness
 
 ====================================================
-DELIVERABLE
+PERFORMANCE REQUIREMENTS
 ====================================================
 
-Provide:
-1. Updated color palette
-2. Updated CSS variables
-3. Improved background styles
-4. Better hero section styling
-5. Redesigned buttons
-6. Refined services card design
-7. Smooth premium animations
-8. Full updated styles.css changes
+Website must remain:
+- fast
+- lightweight
+- smooth
 
-Make the final design feel bright-premium instead of dark-heavy.
+Optimize:
+- animations
+- shadows
+- gradients
+- transitions
+
+Avoid:
+- excessive blur
+- laggy animations
+- heavy JavaScript
+
+====================================================
+CODE ORGANIZATION
+====================================================
+
+Provide changes in this format:
+
+1. EXACT HTML sections to replace
+2. EXACT CSS additions/modifications
+3. EXACT JavaScript additions
+4. Mention where each code block should be pasted
+
+For example:
+- Replace current contact form section with this
+- Add this CSS below existing form styles
+- Add this JS at end of main.js
+
+====================================================
+FINAL GOAL
+====================================================
+
+The upgraded contact page should feel:
+- premium
+- modern
+- conversion-focused
+- visually connected to homepage
+- smooth and production-ready
+
+WITHOUT breaking the current website architecture or functionality.
